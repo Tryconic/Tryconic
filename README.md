@@ -11,7 +11,8 @@ I am an amatuer Software Engineer based in East Texas. My journey in the tech wo
     ⚡ Fun fact: I can sketch nearly anything by hand in under 5 minutes 
 
 
-Skills
+Skills:
+
 Languages: 
 
              C,
