@@ -9,8 +9,10 @@ I am an amatuer Software Engineer based in East Texas. My journey in the tech wo
 📫 How to reach me: 127cboot@gmail.com
 ⚡ Fun fact: I can sketch nearly anything by hand in under 5 minutes 
 
+
 Skills
 Languages: 
+
              C,
              Java,
              C++,
@@ -19,20 +21,27 @@ Languages:
              JavaScript,
              Python,
              C#,
+
             
 Frameworks & Libraries: 
+
              React,
              Requests,
              C++ Libraries (For Unreal),
              Flutter,
              Giraffe,
+
+             
 Tools & Technologies:
+
              Unreal Engine 4 & 5,
              MySQL,
              Eclipse,
              VSCode & Visual Studio 22,
              Flutter,
              Android Studio,
+             MatLab
+             
             
 Projects
 Most of my Projects were completed as either a class assignment, group project, or personal passion project.
