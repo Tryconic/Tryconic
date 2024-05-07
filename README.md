@@ -11,28 +11,28 @@ I am an amatuer Software Engineer based in East Texas. My journey in the tech wo
 
 Skills
 Languages: 
-            - C
-            - Java
-            - C++
-            - SQL
-            - HTML & CSS
-            - JavaScript
-            - Python
-            - C#
+            - C,
+            - Java,
+            - C++,
+            - SQL,
+            - HTML & CSS,
+            - JavaScript,
+            - Python,
+            - C#,
             
 Frameworks & Libraries: 
-            - React
-            - Requests
-            - C++ Libraries (For Unreal)
-            - Flutter
-            - Giraffe
+            - React,
+            - Requests,
+            - C++ Libraries (For Unreal),
+            - Flutter,
+            - Giraffe,
 Tools & Technologies:
-            - Unreal Engine 4 & 5
-            - MySQL
-            - Eclipse
-            - VSCode & Visual Studio 22
-            - Flutter
-            - Android Studio
+            - Unreal Engine 4 & 5,
+            - MySQL,
+            - Eclipse,
+            - VSCode & Visual Studio 22,
+            - Flutter,
+            - Android Studio,
             
 Projects
 Most of my Projects were completed as either a class assignment, group project, or personal passion project.
