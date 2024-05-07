@@ -3,11 +3,12 @@
 About Me
 I am an amatuer Software Engineer based in East Texas. My journey in the tech world has been exciting, and I’m always eager to learn and contribute to open-source projects. Here are some key highlights:
 
-🔭 I’m currently working on my Bachelor's Degree at UT Tyler
-🌱 I’m learning a large variety of languages.
-💬 Ask me about Front End or Unreal Level Design
-📫 How to reach me: 127cboot@gmail.com
-⚡ Fun fact: I can sketch nearly anything by hand in under 5 minutes 
+
+    🔭 I’m currently working on my Bachelor's Degree at UT Tyler
+    🌱 I’m learning a large variety of languages.
+    💬 Ask me about Front End or Unreal Level Design
+    📫 How to reach me: 127cboot@gmail.com
+    ⚡ Fun fact: I can sketch nearly anything by hand in under 5 minutes 
 
 
 Skills
