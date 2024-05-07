@@ -37,3 +37,4 @@ Tools & Technologies:
 Projects
 Most of my Projects were completed as either a class assignment, group project, or personal passion project.
 Feel free to browse my repos to see the variety of projects I have contributed to!
+ 
