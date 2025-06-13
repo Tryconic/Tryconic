@@ -27,7 +27,7 @@ Languages:
             
 Frameworks & Libraries: 
 
-             React,
+             Vite + React,
              Requests,
              C++ Libraries (For Unreal),
              Flutter,
