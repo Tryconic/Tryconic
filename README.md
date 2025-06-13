@@ -39,10 +39,11 @@ Tools & Technologies:
              Unreal Engine 4 & 5,
              MySQL,
              Eclipse,
-             VSCode & Visual Studio 22,
+             VSCode,
              Flutter,
              Android Studio,
-             MatLab
+             MatLab,
+             WireShark
              
             
 Projects
